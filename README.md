@@ -82,19 +82,3 @@ virtual-assistant/
 ## Contributing
 
 We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting a pull request.
-
-
-## Contact
-
-For any inquiries, please contact [yourname@domain.com](216m1a0583@bvcr.edu.in).
-
----
-
-Feel free to modify the content to better fit your actual project details and structure.
-echo "# Virtual-Assistant" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Bhanu-583/Virtual-Assistant.git
-git push -u origin main
